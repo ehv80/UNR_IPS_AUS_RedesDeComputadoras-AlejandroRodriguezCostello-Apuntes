@@ -1,0 +1,23 @@
+Saludos a todos los cursantes en cualquier condición de la materia para este año académico 2007.
+
+Este documento tiene como fin introducir los lineamientos muy generales, que seguramente durante el año iremos cambiando de ser necesario.
+
+El objetivo fundamental de la materia es introducirlos en el mundo de la arquitectura de redes de computadoras con especial énfasis en TCP/IP por su amplia difusión en el mundo académico y coorporativo. Finalmente haremos una breve incursión en las tecnologías de WAN y en las técnicas de seguridad necesarias para redes.
+
+La materia está basada fundamentalmente en un libro de texto:
+
+Redes de computadoras 4ta. Edición
+Andrew S. Tanenbaum
+Pearson-Prentice Hall
+ISBN 970-26-0162-2
+
+A esto le sumaremos los apuntes de clase, tomados de la Universidad de Oviedo, las prácticas de las unidades y los prácticos sobre varias plataformas tomados de DISCA perteneciente a la Universidad Politécnica de Valencia.
+
+Ademas publicaremos un calendario y el programa analítico válido para este año en la web de la materia, pronto a definir. Tambien formularemos un programa de estudio coordinando los temas de clase con las páginas correspondientes en el libro y de ser necesario suministraremos cualquier material complementario que ayude a la mejor interpretación de los temas.
+
+En cuanto a evaluaciones, estoy más propenso a considerar más atención en la práctica y en los prácticos y dejar la teoría para las mesas, dependiendo del nivel alcanzado durante el año. De sobrar tiempo (cosa dudosa) los alumnos que lo deseen podrán optar rendir un examen de teoría durante el año si el calendario lo permite.
+
+Otra punto importante en la materia es la integración horizontal de los alumnos en la clase para propender a la participación. Es importante leer los temas antes de ingresar al salon para una mejor comprensión y participar activamente, ademas la cátedra está siempre dispuesta a escuchar sugerencias de cualquier alumno en cualquier momento, como necesidades grupales o individuales de estudio,no olviden que nuestra función principal es enseñar y no calificar el cual deriva del anterior proceso. Este medio es ideal para discutir intensiva e intelectualmente, pues da tiempo a pensar en lo que se escribe.
+
+Les desea lo mejor, estando a vuestra disposición, su docente
+Alejandro Rodriguez Costello
